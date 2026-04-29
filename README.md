@@ -19,4 +19,5 @@ Soy un entusiasta del análisis de datos actualmente en formación. Me apasiona 
 ## 📫 Contacto
 * [LinkedIn](www.linkedin.com/in/
 fernando-fmares1991)
-* [Correo](fferreyramares@gmail.com)
+* [Correo]
+* fferreyramares@gmail.com
